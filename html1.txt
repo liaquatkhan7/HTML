@@ -1,0 +1,28 @@
+<html>
+<head>
+ <title> Mark zuckerberg </title>
+</head>
+
+<body>
+
+<h1> Mark Zuckerberg </h1> 
+ <p lang="en-us"> Biography
+ Mark Elliot Zuckerberg is an American computer programmer, 
+ Internet entrepreneur, and philanthropist. 
+ He is the chairman, chief executive, and co-founder 
+ of the social networking website Facebook. 
+ Wikipedia
+ </p>
+
+<h2>Born:</h2>
+ <p> May 14, 1984 (age 31), White Plains,
+ New York, United States </p>
+
+<h2>Education:</h2>
+ <P>hillips Exeter Academy (2000–2002), 
+ Ardsley High School (1998–2000),
+ Harvard University, Mercy College</p>
+
+
+</body>
+</html>
