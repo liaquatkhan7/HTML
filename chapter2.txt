@@ -1,0 +1,122 @@
+<html>
+<head>
+ <title> Mark zuckerberg </title>
+</head>
+
+<body>
+
+<h1> Mark Zuckerberg </h1> 
+ <p lang="en-us"> Biography
+ Mark Elliot Zuckerberg is an American computer programmer, 
+ Internet entrepreneur, and philanthropist. 
+ He is the chairman, chief executive, and co-founder 
+ of the social networking website Facebook. 
+ Wikipedia
+ </p>
+
+<h2>Born:</h2>
+ <p> May 14, 1984 (age 31), White Plains,
+ New York, United States </p>
+
+<h2>Education:</h2>
+ <P>hillips Exeter Academy (2000–2002), 
+ Ardsley High School (1998–2000),
+ Harvard University, Mercy College</p>
+
+
+
+
+<h1>Mark</h1>
+<h2>Mark</h2>
+<h3>Mark</h3>
+<h4>Mark</h4>
+<h5>Mark</h5>
+<h6>Mark</h6>
+
+
+<p>to bold some text you can write command <b> < B > </b> with this command you can bold any word to 
+<b>highlight</b> that word</p>
+
+
+
+<p> with this command <i> < i > </i> we can make any word <i> italic</i>. </p>
+
+
+
+<p>On the 4<sup>th</sup> of September you will learn about E=MC<sup>2</sup>. with this command <sup>< sup ></sup> 
+element is used to contain characters that should be superscript such as the suffixes of dates or
+mathematical concepts like raising a number to a power such as 2<sup>2</sup>.</p>
+
+
+<p>The amount of C<sub>2</sub>O in the atmosphere grew by 2pm in 2009<sub>1</sub>. with this command <sub>< sub ></sub> 
+you can element is used to contain characters that should be subscript. 
+It is commonly used with foot notes or chemical formulas such as H<sub>2</sub>0.</p>
+
+
+
+<p>The Earth<br />gets one hundred tons heavier
+every day<br />due to falling space dust.As you have already seen,<br /> the browser will automatically 
+show each new paragraph or heading on a new line.<br /> But if you wanted to add a line break 
+inside the middle of<br /> a paragraph you can use the line break tag 
+<br />this command break line< br />.</p>
+
+
+
+<p>with the help of this command < hr /> </p>
+<hr />
+<p>one line comes between two paragraphs </p>
+<hr />
+<p>To create a break betweenthemes</p>  
+<hr />
+<p>such as a change of topic in a book or a new scene in a play</p>
+<hr />  
+<p>you can add a horizontal rule between sections using the < hr /> tag.<p/>
+
+
+
+<p><strong>beware:</strong> pick pocket operate in this area</p>
+<p>With the help of this <strong>< strong ></strong> command you can bold any word</p> 
+
+
+
+<p>i <em>think</em> ivy was the first</p>
+<p>with the help of this <em>< em ></em> you can italic any word</p>
+
+
+
+
+<blockquote cite="http://en.wikipedia.org/wiki/Winnie-the-Pooh">
+<p>Did you ever stop to think, and forget to start again?</p> </blockquote>
+<p>As A.A. Milne said, <q>Some people talk to animals. Not many listen though. That's the problem.</q></p>
+
+
+
+
+<p><abbr title="professor">prof</abbr> steven hawklin is physics teacher in oxford collage</p>
+<p><acronym title="national aeronutics and space administration">NASA</acronyms> do some crazy space stuff</p>
+
+
+
+
+<p><cite>a brief history of times</cite> by stevin hawken has sold over 10 million copyies world wide</p>
+<p>a<dfn> black hole</dfn> is the region of space from which notthing, not even light, can escape.</p> 
+<p>< cite > When you are referencing a piece of work such as a book, film or research paper, the< cite > 
+element can be used to indicate where the citation is from. In HTML5, < cite > should not really be used 
+for a person's name — but it was allowed in HTML 4, so most people are likely to continue to use it.
+Browsers will render the content of a < cite > element in italics.</p>
+<p>< dfn > The first time you explain some new terminology (perhaps an academic concept or some jargon) 
+in a document, it is known as the defining instance of it. The < dfn > element is used to
+indicate the defining instance of a new term. Some browsers show the content of the < dfn > element in
+italics. Safari and Chrome do not change its appearance.</p>
+<p> book page 55</p>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
