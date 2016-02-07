@@ -1,4 +1,4 @@
-cover: ![cover](C:\Documents and Settings\Fari\My Documents\Downloads)
+cover: ![alt text](http://d.gr-assets.com/books/1348805097l/10361330.jpg "logo title text 1")
 
 #Learning HTML#
 =============== 
@@ -12,9 +12,9 @@ cover: ![cover](C:\Documents and Settings\Fari\My Documents\Downloads)
 
 
 **Uploaded Chapters:**
-1. Chapter 1.
-2. Chapter 2.
-3. ~~Chapter 3.~~
+* Chapter 1.
+* Chapter 2.
+* ~~Chapter 3.~~
 
 
 
