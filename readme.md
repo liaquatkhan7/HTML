@@ -1,4 +1,4 @@
-cover: ![alt text](http://d.gr-assets.com/books/1348805097l/10361330.jpg "logo title text 1")
+![alt text](http://d.gr-assets.com/books/1348805097l/10361330.jpg "logo title text 1")
 
 #Learning HTML#
 =============== 
