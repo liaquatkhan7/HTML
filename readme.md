@@ -2,13 +2,13 @@
 
 #Learning HTML#
  
-##BOOK: 
+##BOOK:
 *HTML and CSS-Design and build Website*
 
 
-*you can find this book from here* 
-[html&css](http://www.htmlandcssbook.com/)
-[book pdf](http://www.aazea.com/book/html-and-css-design-and-build-websites/)
+*you can find this book from here*   
+[html&css](http://www.htmlandcssbook.com/)  
+[book pdf](http://www.aazea.com/book/html-and-css-design-and-build-websites/)  
 
 
 **Uploaded Chapters:**
