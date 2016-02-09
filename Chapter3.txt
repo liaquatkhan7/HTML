@@ -5,27 +5,64 @@
 
 <body>
  <ol>
- <li>chop potatoes
+  <li>chop potatoes quarters</li>
+  <li>simmer in salted water 
+      for 15-20 minuted untill
+       tender                </li>
+  <li>drain potatoes and mash</li>
+  <li>mix in the milk mixture</li>
+ </ol>
 
+<hr />
 
+ <ul>
+     <li>1kg king edward potatoes</li>
+     <li>100ml milk              </li>
+     <li>50kg salted butter      </li>
+     <li>freshlu grated nutmeg   </li>
+     <li>salt and pepper to taste</li>
+ </ul>
 
-page number 65
+<hr />
 
+ <dl>
+     <dt>DL</dt>
+     <dd>The definition list is created with
+         the < dl > element and usually
+         consists of a series of terms and
+         their definitions.
+         Inside the < dl > element you will
+         usually see pairs of < dt > and
+         < dd > elements.</dd>
+     <dt>DT</dt>
+     <dd>This is used to contain the term
+         being defined (the definition
+         term).</dd>
+      <dt>DD</dt>
+      <dd>This is used to contain the
+          definition.
+          Sometimes you might see a list
+          where there are two terms used
+          for the same definition or two
+          different definitions for the same
+          term.</dd>
+ </dl>         
 
+<hr />
 
+ <ul>
+    <li>NESTED LIST</li>
+    <li>pastries</li>
+ <ul>
+    <li>croissant     </li>
+    <li>mille-feuille </li>
+    <li>palmier       </li>
+    <li>profiterole   </li>
+ </ul>
+    <li>list end</li>
+ </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
+<hr />
 
 </body>
 </html>
