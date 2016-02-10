@@ -1,0 +1,103 @@
+<html>
+<head>
+	<title> LINKS </title>
+
+<body>
+<h1>LINKS</h1>
+<H2>Search Engines</h2>
+<ul>
+<li><a href="http://www.google.com.pk"> 
+GOOGLE </a></li>
+<li><a href="http://www.bing.com">        
+BING  </a></li>
+<li><a href="http://www.ask.com">         
+ASK   </a></li>
+<li><a href="http://www.search.yahoo.com"> 
+YAHOO  </a></li>
+</ul>
+
+
+
+
+<p>Movie Reviews:
+<ul>
+<li><a href="http://www.empireonline.com">
+Empire</a></li>
+<li><a href="http://www.metacritic.com">
+Metacritic</a></li>
+<li><a href="http://www.rottentomatoes.com">
+Rotten Tomatoes</a></li>
+<li><a href="http://www.variety.com">
+Variety</a></li>
+</ul>
+</p>
+
+
+
+
+<p>social netwrok</p>
+ <ul>
+    <li><a href="https://www.facebook.com/">FACEBOOK LINK</a></li>
+    <li><a href="https://twitter.com/?lang=en">TWITTER LINK</a></li>
+    <li><a href="https://myspace.com/">MYSPACE LINK</a></li>
+    <li><a href="https://www.linkedin.com/">LINKDIN LINK</a></li>
+  </ul>
+
+ <a href="mailto:farrukh_khan16@hotmail.com">Email To</a>
+  <p>(open in new window)</p>
+ <a href="http://www.imdb.com" target="_blank">Internet Movie Database</a>
+  
+
+<h1 id="top">Film-Making Terms</h1>
+<a href="#arc_shot">Arc shot</a> 
+<br />
+<a href="#interlude">Interlude</a>
+<br />
+<a href="#prologue">Prologue</a>
+<br />
+<a href="http:/www.htmlandcssbookcom/">HTML and CSS</a>
+<br />
+
+<h2 id="arc_shot">Arc shot</h2>
+<p>A shot in which the subject is photographed by an eccircling or 
+movie cameraAt the top of a long page
+</p>
+
+<h2 id="interlude">Interlude</h2>
+<p>a brief, intervaning film scene or sequence, not specifically tied
+the plot, that appears within a filmAt the top of a long page
+</p>
+
+<h2 id="prologue">Prologue</h2>
+<p>A speech, preface, introduction, or brief scene
+preceding the the main action or plot of a film;
+contrast to epilogue</p>
+
+
+
+
+
+
+
+<p><a href="#top">Top</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
