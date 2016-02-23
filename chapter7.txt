@@ -1,0 +1,211 @@
+<html>
+
+ <head>
+ <title>Chapter7</title>
+ </head>
+
+
+
+<body>
+
+
+<h1> Forms </h1>
+<form action="http://example.com./subscribe.php" method="get">
+<p>This is where the form controls will appear.</p>
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php">
+<p>Username: 
+   <input type="text" name="username" size="15" maxlength="30" />
+</p>
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php">
+<p>Username:
+<input type="text" name="username" size="15" maxlength="30" />
+</p>
+<p>Password:
+<input type="password" name="password" size="15" maxlength="30" />
+</p>
+
+<hr />
+
+<form action="http://example.com./subscribe.php">
+<p>What did you think of this gig? </p>
+<textarea name="comments" cols="20" rows="4">Enter your comments...</textarea>
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php">
+<p>
+Please select your favorite genre:
+<br />
+<input type="radio" name="genre" valuse="rock" checked="checked" />
+Rock
+<input type="radio" name="genre" value="pop" />
+Pop
+<input type="radio" name="genre" value="jazz" />
+Jazz
+</p>
+</from>
+
+<hr />
+
+<form action="http://example.com./subscribe.php" method="get">
+<p>Username:
+<input type="text" name="username" size="15" maxlength="30"></p>
+<p>Password:
+<input type="password" name="password" size="15" mexlength="30"></p>
+<p><strong>what do you think about this comment below:</strong></p>
+<textarea name="comments" cols="20" rows="4">
+Enter your comments here...
+</textarea>
+</form>
+
+<form action="http://example.com./subscribe.php" method="get">
+<p>Please select you facorite genre: <br />
+<input type="radio" name="genre" value="Rock" checked="checked" /> Rock
+<input type="radio" name="genre" value="Pop" checked="checked" /> Pop
+<input type="radio" name="genre" value="Jazz" checked="checked" /> Jazz
+</p>
+</form>
+
+<form action="http://example.com./subscribe.php">
+<p><strong>Please select your favorite music service:</strong><br />
+<input type="checkbox" name="service" value="itunes" checked="checked" />Itunes
+<input type="checkbox" name="service" value="lastfm" />lastfm
+<input type="checkbox" name="service" value="spotify" />spotify
+</p>
+</form>
+
+<form action="http://example.com./subscribe.php" method="get">
+<p><strong>What device do you listen to music on?</strong></p>
+<select name"devices">
+<option value="ipod">Ipod</option>
+<option value="Radio">Radio</option>
+<option value="computer">Computer</option>
+</select>
+</form>
+
+<hr />
+
+<from action="http://example.com./subscribe.php" method="get">
+<p><strong>Do you play any of the following instrument?
+   (you can select more than one option by holding 
+   down control on a PC or command key on a Mac
+   while selecting different option.) </strong></p>
+<select name="instruments" size="5" multiple="multiple">
+<option value="guitar" selected="selected">Guitar</option>
+<option value="Drum">Drum</option>
+<option value="keyboard">Keyboard</option>
+<option value="bass">Bass</option>
+<option value="organ">Organ</option>
+</select>
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php" method="post">
+<p>Upload you song in mp3 format:</p>
+<input type="file" name="user-song" /> <br />
+<input type="submit" value="upload" /> 
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php" method="post">
+<p><strong>Subscribe to our email:</strong></p>
+<input type="email" name="email" />
+<input type="submit" name="subscribe" value="Subscribe" />
+</form>
+ 
+<hr />
+
+<form action="http://example.com./subscribe.php" method="post">
+<p>Subscribe to our email list:</p>
+<input type="text" name="email" />
+<input type="image" src="chapter5 images/images/subscribe.jpg" width="100" hight="20" />
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php">
+<button>
+<image src="chapter5 images/images/add.gif" alt="add" width="10" hight="10" />
+Add</button>
+<input type="hidden" name="bookmark" value="lyrics" />
+</form>
+
+<hr />
+
+<label>Age: <input type="text" name="age" /> </label>
+<br />
+Gender
+<input id="female" type="radio" name"gender" value="f">
+<label for="female">Female</label>
+<input it="male" type="radio" name="gender" value="m">
+<label for="male">Male</label>
+
+<hr />
+
+<fieldset>
+ <legend>Contact details</legend>
+ <label>Email:<br />
+ <input type="text" name"email" /></label><br />
+ <label>mobile:<br />
+ <input type="text" name="mobile" /></label><br />
+ <label>Telephone:<br />
+ <input type="text" name="telephone" /></label><br />
+</fieldset>
+
+<hr />
+
+<form action="http://example.com./subscribe.php" method="post">
+<label for="username">Username:</label>
+<input type="text" name="username" required="required" /></title><br />
+<label password="password">Password:</label>
+<input type="password" name="password" required="required" />
+<input type="submit" value="submit" />
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php" method="post">
+<label for="username">Departure date:</label>
+<input type="date" name="depart" />
+<input type="submit" name="submit" />
+</form>
+
+<hr />
+<form action="http://example.com./subscribe.php">
+<p>Please enter your email address:</p>
+<input type="email" name="email" />
+<p>Please enter your website url here:</p>
+<input type="url" name="website" />
+<input type="submit" name="submit" />
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php" method="post">
+<p>Search:</p>
+<input type="search" name="search" />
+<input type="submit" name="submit" />
+</form>
+
+<hr />
+
+<form action="http://example.com./subscribe.php" method="post">
+<p>Search:</p>
+<input type="search" name="search" placeholder="Enter keword" />
+<input type="submit" name="submit" />
+</form>
+
+<hr />
+</body>
+</html>
